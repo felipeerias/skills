@@ -1,6 +1,6 @@
 ---
 name: codex-collaboration
-description: Use when undertaking a substantial piece of autonomous coding work in a project where the Codex MCP is available.
+description: Use when undertaking a substantial piece of autonomous coding work in a project where the Codex plugin for Claude Code is available.
 ---
 
 # Codex collaboration
