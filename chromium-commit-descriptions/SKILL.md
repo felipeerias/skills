@@ -38,4 +38,5 @@ Put the applicable footers together in the final paragraph. Bug: references the 
 
 - One problem per CL. A description that keeps growing is a sign that the CL probably needs splitting.
 - Reread the description against the final patch set before landing.
-- For the prose, apply the readable-writing-style skill.
+- For the diff, apply the narrative-coherence skill, so that the diff and the description tell one coherent story.
+- For the prose, apply the readable-writing-style skill. Where the two skills differ, this one wins: the subject and the Change section stay in the imperative, not "we ..." or "This CL ...".
