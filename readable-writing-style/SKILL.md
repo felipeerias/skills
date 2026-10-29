@@ -36,7 +36,7 @@ The reader processes text one word at a time with limited memory. Include the co
 ## Structure
 
 - Lead with the point or the request. Define terms that this reader may not know. State the action, owner and date of an ask when they are known; do not invent them.
-- Format to help navigation, not to decorate: lists for parallel items or steps; headings only when a message covers several separate topics; no bold lead-ins, emoji, em dashes or arrows in prose. Plain text, not Markdown, for commit messages, mailing lists and Gerrit.
+- Format to help navigation, not to decorate: lists for parallel items or steps; headings only when a message covers several separate topics; no bold lead-ins, emoji, em dashes or arrows in prose. Plain text, not Markdown, for commit descriptions and mailing lists.
 
 ## Final check
 

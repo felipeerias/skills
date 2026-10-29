@@ -30,9 +30,9 @@ Leave a blank line after the subject. Wrap prose at 72 columns; do not break URL
 - Leave out the development diary and any hunk-by-hunk narration of the diff.
 - Use the length that the explanation needs. Many descriptions fit in 80 to 250 words, and shorter is fine. Keep extra detail only when readers need it.
 
-## Trailers
+## Footers
 
-Put the applicable trailers together in the final paragraph. Bug: references the related issues. Fixed: closes an issue on landing. Test: records manual testing or gives instructions for testers; omit it when the trybots cover all testing. Add AX-Relnotes: when the change affects assistive technology.
+Put the applicable footers together in the final paragraph. Bug: references the related issues. Fixed: closes an issue on landing. Test: records manual testing or gives instructions for testers; omit it when the trybots cover all testing. Add AX-Relnotes: when the change affects assistive technology.
 
 ## Final check
 
